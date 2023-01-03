@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "654210190584",
+    "project_id": "legoshop-1282e",
+    "storage_bucket": "legoshop-1282e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:654210190584:android:900723d4021c75ec8e3f0d",
+        "android_client_info": {
+          "package_name": "com.david4vilac.legostorefragment"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "654210190584-he0gvtav8kviijpr9n9smr043v9bbv27.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBH-PK0dsRBGmPwuQZb5oIZQjFRAGE2-i0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "654210190584-he0gvtav8kviijpr9n9smr043v9bbv27.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
